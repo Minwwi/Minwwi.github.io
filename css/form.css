@@ -1,0 +1,26 @@
+/**
+ * Styles for the add-observation.html page 
+ */
+input#species_desc
+{
+    width: 64%;
+}
+
+input#photo_name
+{
+    width: 64%;
+}
+
+input#photo_email
+{
+    width: 64%;
+}
+
+span#errorlat
+{
+color: red;
+}
+span#errorlon
+{
+color: red;
+}
